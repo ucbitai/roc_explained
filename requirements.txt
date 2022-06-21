@@ -39,7 +39,7 @@ nbformat==4.4.0
 nbinteract==0.2.4
 notebook==6.0.1
 numexpr==2.6.9
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 pandocfilters==1.4.2
 parso==0.5.1
